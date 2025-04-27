@@ -12,7 +12,6 @@ Here are some screenshots of Solana Ultimate Ai Auto Trade Bot in action:
 ![Screenshot 2](img/dashboard.png) 
 ![Screenshot 1](img/EasyRun.jpg) 
 
-
 # Solana Ultimate Ai Auto Trade Bot 
 
 **Solana Ultimate Ai Auto Trade Bot** is the ultimate AI-driven trading bot designed to revolutionize meme token trading on the Solana blockchain. It offers a plethora of features to ensure you make profitable trades effortlessly. With Solana Ultimate Ai Auto Trade Bot, you can also create and manage tokens on the Solana network. The bot is powered by GPT-4.0, providing real-time AI support for all your needs. 
