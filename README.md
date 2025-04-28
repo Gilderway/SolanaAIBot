@@ -1,10 +1,3 @@
-<p align="center">
-<img src=https://img.shields.io/github/stars/SolanabuyBot/Solana-Bot?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/forks/SolanabuyBot/Solana-Bot?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/issues/SolanabuyBot/Solana-Bot?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/SolanabuyBot/Solana-Bot?style=for-the-badge&logo=appveyor&color=informational />
-</p>
-
 ## Screenshots 
 
 Here are some screenshots of Solana Ultimate Ai Auto Trade Bot in action: 
